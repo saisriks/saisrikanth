@@ -1,6 +1,6 @@
 <!--<img width="100%" src="github-header-image.png" alt="my banner"/>-->
 
-<b>I'm currently learning<b>🐍Python</b></b>
+<b>I'm currently learning<i>🐍Python</i></b>
 
 ## 💻 Skills
 <p>
